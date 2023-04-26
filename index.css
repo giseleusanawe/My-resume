@@ -206,17 +206,17 @@ p{
     background:rgb(52, 208, 220) ;
 }
 .interest ul{
-    display: grid;
+    display: block;
     grid-template-columns: repeat(4,1fr);
 }
 .interest ul li{
     list-style: none;
-    color: rgb(147, 92, 92);
+    color: rgb(5, 71, 71);
     font-weight: 600;
     margin: 10px 0;
 }
 .interest ul li .fa{
-    color: aqua;
+    color: rgb(52, 208, 220);
     font-size: 18px;
     width: 20px;
 }
